@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758470356421",
+    "firebase_url": "https://oneplace-b58e1-default-rtdb.firebaseio.com",
+    "project_id": "oneplace-b58e1",
+    "storage_bucket": "oneplace-b58e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758470356421:android:a1288e144daf0e86e8afac",
+        "android_client_info": {
+          "package_name": "com.deeplab.oneplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758470356421-u8ubbb6t6u43j2hkf1p6hit73sbip5to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deeplab.oneplace",
+            "certificate_hash": "2e7c478d14220cb98d6cb91a127542d8b31712e7"
+          }
+        },
+        {
+          "client_id": "758470356421-5tggmubv1s1li2uo79huddkbg3lfq2ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3FZlZueYHFKGvmSEtOn-ub2jPnKrlB24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758470356421-5tggmubv1s1li2uo79huddkbg3lfq2ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
